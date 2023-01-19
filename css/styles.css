@@ -1,0 +1,44 @@
+body {
+    min-width: 372px;
+}
+
+#home {
+	background: white;
+	color: black;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.wrapper {
+    min-height: 100vh;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.btn-secondary {
+    color: #000;
+    background-color: #ffbe55;
+    border-color: #dda147;
+}
+
+.btn-secondary:hover {
+    color: #000;
+    background-color: #c9852c;
+    border-color: #ac6625;
+}
+
+.navbar-custom {
+    background-color: #1f4e70;
+}
+
+.table-custom th {
+    color: #fff;
+    background-color: #1f4e70;
+}
